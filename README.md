@@ -21,40 +21,6 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/nN7zjHsSmcU2 | Boldhusgade 6, 1062 København K
 
-#### Emmerys (Store Kongensgade)
-
-Webpage: http://www.emmerys.dk/cafebutik.html
-
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/BPXXzi37DfE2 | Store Kongensgade 97, 1264 København K
-
-#### Emmerys (Store Strandstræde)
-
-Webpage: http://www.emmerys.dk/cafebutik.html
-
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/rsYsgqpWugy | Store Strandstræde 21, 1255 København K
-
-#### Paludan Bogcafé
-
-> Open late
-
-Webpage: http://www.paludan-cafe.dk
-
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | ✔     | https://goo.gl/maps/BaqeGzohcdC2 | Fiolstræde 10, 1171 København
-
-#### Riccos Kaffebar (Sluseholmen)
-
-Webpage: http://www.riccos.dk
-
-Wifi | Power | Map                             | Address
-:--: | :---: | :-----------------------------: | :---------------------------------------:
-✔    | At sofa | https://goo.gl/maps/3w6ZXGg6EUo | Sluseholmen 28, 2450 København SV
-
 # France 🇫🇷
 
 ## Paris
@@ -111,6 +77,33 @@ Wifi | Power | Map                             | Address
 :--: | :---: | :-----------------------------: | :---------------------------------------:
 ✔    | ✔     | https://goo.gl/maps/RRm5Qdx2k3u | Av. Duque de Ávila 120A, 1050-084 Lisboa, Portugal
 
+#### Copenhagen Coffee Lab, Lisboa
+
+> Pour over, aeropress, espressoo - this place got it all
+
+Webpage: http://copenhagencoffeelab.com/lissabon/
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/PGwRAsp5mhA2 | 1200 192, R. Nova da Piedade 10, 1200-405 Lisboa
+
+#### Café Tati
+
+> Good homemade food, friendly people and nice atmosphere
+
+Webpage: http://www.cafetati.blogspot.dk
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/mhZJSFpJPuL2 | 1200 371, R. Ribeira Nova 36, 1200-371 Lisboa
+
+#### Tartine
+
+Webpage: http://www.cafetati.blogspot.dk
+
+Wifi | Power | Map                             | Address
+:--: | :---: | :-----------------------------: | :---------------------------------------:
+✔    | ✔     | https://goo.gl/maps/NNnXK6LkzFJ2 | R. Serpa Pinto 15A, 1200-026 Lisboa
 
 ---------------------------------------------------------------
 
